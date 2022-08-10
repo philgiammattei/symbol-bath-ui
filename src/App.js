@@ -16,14 +16,6 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://book-of-changes.netlify.app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          book of changes
-        </a>
-        <a
-          className="App-link"
           href="https://twitter.com/phil__harmonic"
           target="_blank"
           rel="noopener noreferrer"
