@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h2>symbol bath</h2>
-        <h4>divination tools for digital scryers</h4>
+        <h4>divination on the internet</h4>
         <a
           className="App-link"
           href="https://astrodice.netlify.app"
